@@ -40,16 +40,13 @@ This repository demonstrates several implementations of CNN architectures, inclu
 - **TensorFlow/Keras**: Code implementations are done using TensorFlow/Keras for building and training the models.
 - **Real-World Applications**: The repository includes examples and practical use cases of CNNs in various domains.
 
-![GIF 3](https://drive.google.com/uc?export=view&id=1YtXirl9tzdGkU2RoLb3YR3_81Bq6QR-n)
-![GIF 4](https://drive.google.com/uc?export=view&id=1jUS7U7lG-6GzvLd4daEsIYVzenaRnN03)
-![GIF 5](https://drive.google.com/uc?export=view&id=1CSNvUbVr40O4G_OIC0-TZ5Z-Seo4EKwO)
+![GIF 2](https://drive.google.com/uc?export=view&id=1ZfXNqxQVnM3i7tcARzk2yxBd4SiJ30BL)
+
 ---
 
 ## 🌐 Demo
 
 You can try out the various implementations by running the provided Jupyter notebooks. Each notebook contains step-by-step instructions and code comments to help you understand how to build and train a CNN for different applications.
-
-![GIF 2](https://drive.google.com/uc?export=view&id=1ZfXNqxQVnM3i7tcARzk2yxBd4SiJ30BL)
 
 ![GIF](https://drive.google.com/uc?export=view&id=1mwEkuelDy13k6AIFVpqeQBz_4fJgOczK)
 
@@ -70,15 +67,15 @@ You can try out the various implementations by running the provided Jupyter note
 
 ```plaintext
 Convolutional-Neural-Network/
-├── Image Classifier.ipynb                    # CNN for binary image classification (e.g., Cats vs Dogs)
-├── Implement Transfer Learning with Fine Tuning.ipynb  # Transfer learning with fine-tuning
-├── Implement a simple LSTM using Tensor Flow.ipynb  # LSTM implementation
+├── Image Classifier.ipynb                                 # CNN for binary image classification (e.g., Cats vs Dogs)
+├── Implement Transfer Learning with Fine Tuning.ipynb     # Transfer learning with fine-tuning
+├── Implement a simple LSTM using Tensor Flow.ipynb        # LSTM implementation
 ├── Implement simple program like vector addition in tensorflow.ipynb  # Simple TensorFlow example
-├── Implementation of Autoencoder.ipynb      # Autoencoder implementation
-├── Implementation of image classifier using CNN.ipynb  # Another CNN classifier implementation
-├── Implementation of perceptron in Tensorflow.ipynb  # Perceptron model in TensorFlow
-├── Implementation of regression model in keras.ipynb  # Regression model in Keras
-├── README.md                                 # Project documentation
+├── Implementation of Autoencoder.ipynb                                # Autoencoder implementation
+├── Implementation of image classifier using CNN.ipynb                 # Another CNN classifier implementation
+├── Implementation of perceptron in Tensorflow.ipynb                   # Perceptron model in TensorFlow
+├── Implementation of regression model in keras.ipynb                  # Regression model in Keras
+├── README.md                                                          # Project documentation
 ```
 
 🚀 Running the Code
