@@ -13,7 +13,10 @@ The focus of this project is on demonstrating the concepts of CNNs and their app
 Convolutional Neural Networks (CNNs) are a class of deep learning models used primarily for analyzing visual data. 
 They have gained significant popularity in tasks such as image classification, object detection, and semantic segmentation due to their ability to automatically detect important features in images.
 
+![GIF 1](https://drive.google.com/uc?export=view&id=11uHVHsydhuL5xAjfmny6lF8sqeuKL9nf)
+
 ![CNN](https://drive.google.com/uc?export=view&id=1E8O4DW6lX5BmXezyvguuis3YWMy4B0II)
+
 
 This repository demonstrates several implementations of CNN architectures, including binary image classification, transfer learning, autoencoders, and more.
 
@@ -42,6 +45,8 @@ This repository demonstrates several implementations of CNN architectures, inclu
 ## 🌐 Demo
 
 You can try out the various implementations by running the provided Jupyter notebooks. Each notebook contains step-by-step instructions and code comments to help you understand how to build and train a CNN for different applications.
+
+
 
 ![GIF](https://drive.google.com/uc?export=view&id=1mwEkuelDy13k6AIFVpqeQBz_4fJgOczK)
 
