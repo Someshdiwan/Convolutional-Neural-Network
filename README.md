@@ -25,6 +25,8 @@ This repository demonstrates several implementations of CNN architectures, inclu
 - **LSTM Implementation**: Combine CNNs with Long Short-Term Memory (LSTM) networks for sequence prediction.
 - **Vector Addition with TensorFlow**: A simple example demonstrating vector addition using TensorFlow.
 
+![GIF](https://drive.google.com/uc?export=view&id=1l7Ep-n-7Q31WftmWonDcFAFPmMcwbAMQ)
+
 ---
 
 ## 🔧 Features
@@ -40,6 +42,8 @@ This repository demonstrates several implementations of CNN architectures, inclu
 ## 🌐 Demo
 
 You can try out the various implementations by running the provided Jupyter notebooks. Each notebook contains step-by-step instructions and code comments to help you understand how to build and train a CNN for different applications.
+
+![GIF](https://drive.google.com/uc?export=view&id=1mwEkuelDy13k6AIFVpqeQBz_4fJgOczK)
 
 ---
 
