@@ -49,6 +49,9 @@ This repository demonstrates several implementations of CNN architectures, inclu
 You can try out the various implementations by running the provided Jupyter notebooks. Each notebook contains step-by-step instructions and code comments to help you understand how to build and train a CNN for different applications.
 
 ![GIF](https://drive.google.com/uc?export=view&id=1mwEkuelDy13k6AIFVpqeQBz_4fJgOczK)
+![GIF 3](https://drive.google.com/uc?export=view&id=1YtXirl9tzdGkU2RoLb3YR3_81Bq6QR-n)
+![GIF 4](https://drive.google.com/uc?export=view&id=1jUS7U7lG-6GzvLd4daEsIYVzenaRnN03)
+![GIF 5](https://drive.google.com/uc?export=view&id=1CSNvUbVr40O4G_OIC0-TZ5Z-Seo4EKwO)
 
 ---
 
