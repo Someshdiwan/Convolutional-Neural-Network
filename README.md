@@ -40,13 +40,16 @@ This repository demonstrates several implementations of CNN architectures, inclu
 - **TensorFlow/Keras**: Code implementations are done using TensorFlow/Keras for building and training the models.
 - **Real-World Applications**: The repository includes examples and practical use cases of CNNs in various domains.
 
+![GIF 3](https://drive.google.com/uc?export=view&id=1YtXirl9tzdGkU2RoLb3YR3_81Bq6QR-n)
+![GIF 4](https://drive.google.com/uc?export=view&id=1jUS7U7lG-6GzvLd4daEsIYVzenaRnN03)
+![GIF 5](https://drive.google.com/uc?export=view&id=1CSNvUbVr40O4G_OIC0-TZ5Z-Seo4EKwO)
 ---
 
 ## 🌐 Demo
 
 You can try out the various implementations by running the provided Jupyter notebooks. Each notebook contains step-by-step instructions and code comments to help you understand how to build and train a CNN for different applications.
 
-
+![GIF 2](https://drive.google.com/uc?export=view&id=1ZfXNqxQVnM3i7tcARzk2yxBd4SiJ30BL)
 
 ![GIF](https://drive.google.com/uc?export=view&id=1mwEkuelDy13k6AIFVpqeQBz_4fJgOczK)
 
@@ -77,3 +80,18 @@ Convolutional-Neural-Network/
 ├── Implementation of regression model in keras.ipynb  # Regression model in Keras
 ├── README.md                                 # Project documentation
 ```
+
+🚀 Running the Code
+Clone the repository:
+git clone https://github.com/Someshdiwan/Convolutional-Neural-Network
+
+Navigate to the project directory:
+bash
+cd Convolutional-Neural-Network
+Open and run the Jupyter Notebooks or Python scripts to see the CNN implementations in action.
+
+🌟 Show Your Support
+If you like this project, please consider giving it a ⭐ on GitHub!
+
+🤝 Contributing
+We welcome contributions to improve the repository! If you have any enhancements, bug fixes, or new ideas for additional CNN applications, feel free to fork the repository, make changes, and submit a pull request.
